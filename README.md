@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="176" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBoY2tjZDN2eGZ4ZTA3ZTF4d3hxY3F3enVnN2dxZ2s4dzhpYm1tbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
+<img align="right" height="178" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBoY2tjZDN2eGZ4ZTA3ZTF4d3hxY3F3enVnN2dxZ2s4dzhpYm1tbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
 
 ###
 
-<h6 align="left">Hi! I'm a passionate web developer who's currently on the journey to becoming an expert in the field. I enjoy building web applications using HTML, CSS, JavaScript, and exploring both front-end and back-end technologies. Every day is a new opportunity for me to learn, experiment, and improve my skills.<br><br>I'm not an expert yet but I'm working hard to get there. I believe that consistent practice, curiosity, and real-world projects are the keys to growth. Right now, I'm focusing on learning modern frameworks, improving my problem-solving skills, and building cool, useful stuff along the way.<br><br>Whether you're here to connect, collaborate, or just check out my work welcome!</h6>
+<h5 align="left">Hi! I'm a passionate web developer who's currently on the journey to becoming an expert in the field. I enjoy building web applications using HTML, CSS, JavaScript, and exploring both front-end and back-end technologies. Every day is a new opportunity for me to learn, experiment, and improve my skills.<br><br>I'm not an expert yet but I'm working hard to get there. I believe that consistent practice, curiosity, and real-world projects are the keys to growth. Right now, I'm focusing on learning modern frameworks, improving my problem-solving skills, and building cool, useful stuff along the way.<br><br>Whether you're here to connect, collaborate, or just check out my work welcome!</h5>
 
 ###
 
